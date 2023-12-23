@@ -2,7 +2,7 @@
 
 ## 1 Using Python like a calculator
 
-Python has the following mathematical operators:\
+Python has the following mathematical operators:
 
 | Code     | Result    | Notes                                            |
 |----------|-----------|--------------------------------------------------|
@@ -66,6 +66,8 @@ Run the script to make sure it works. (Test cases: 0C = 32F, 50C = 122F, and 100
 Implement the algorithm as a Python script. Test the script using the same test cases as above.
 
 ## 3 Flowcharts and programs
+
+![image](https://github.com/MaksymAndreiev/KUAS_Python/assets/29687267/a4f3f6ae-cb53-4cd8-a4da-2261a9064b1d)
 
 Write a program that inputs the total length of a movie in minutes and then
 outputs the length of the movie in hours and minutes. The flowchart is
@@ -145,6 +147,8 @@ exercises. If you finish all of the challenges before the end of the class then 
 earn 1 bonus point towards your final score.
 
 ### 6.1 Simple ‘while’ loops
+
+![image](https://github.com/MaksymAndreiev/KUAS_Python/assets/29687267/2643d9fb-7125-4a90-985f-37e403308d83)
 
 This Python program prints the first ten integers, from 10 down to 1.
 
