@@ -11,7 +11,7 @@ Hint: Develop your function by incrementally. While drawing a square, draw a cir
 out how to orient the circles correctly. Alternatively, start by drawing just the first circle and the first line. When
 they look correct, repeat the code four times to draw the entire figure.
 
-## 2 Drawing ﬂowers
+## 2 Drawing flowers
 
 During the class we created a function called `arc(radius, angle)`.
 
