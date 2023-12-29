@@ -65,6 +65,7 @@ final ‘return’) that gives the result "retired" for any age over 64.
 Let’s implement some well-known recursive mathematical functions. If you already know how to do this then you can skip
 directly to Section 2.1. If you are not sure how to do this, let’s practice by incrementally developing a recursive
 function that calculates the factorial of a number.
+
 $$
 \text{factorial}(n) =
 \begin{cases}
@@ -146,6 +147,8 @@ Note that in Python the modulus operation ‘*a* mod *b*’ is written using the
 
 ## 3 Recursive geometry
 
+![image](https://github.com/MaksymAndreiev/KUAS_Python/assets/29687267/dbc4dacf-aa2d-4b83-aae6-4044f2d79801)
+
 To draw a Koch curve whose length is *x* you should:
 
 - draw a Koch curve with length *x÷* 3,
@@ -164,6 +167,7 @@ Write a function called `koch(x)` that draws a Koch curve using the turtle modul
 Hint: to exit immediately from the function at any point
 within it, use a return statement.
 
+![image](https://github.com/MaksymAndreiev/KUAS_Python/assets/29687267/11cede81-1a13-4070-a48b-5ddc8ebaa3ab)
 
 ## 4 Snowflakes
 
@@ -171,6 +175,9 @@ Write a function called `snowflake(length)` that uses your `koch()` function to 
 
 Hint: The top part of the snowflake shown on the right, spanning the width of the snowflake, is the same single Koch curve
 that was illustrated in the previous question.
+
+![image](https://github.com/MaksymAndreiev/KUAS_Python/assets/29687267/9a2a2da4-e020-49c2-93ba-642ad84fb6ee)
+
 
 ## Challenges
 
