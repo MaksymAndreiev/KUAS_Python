@@ -202,6 +202,8 @@ point in black if it is inside the circle or in red if it is outside.
 
 ### 2.2 Example session
 
+![image](https://github.com/MaksymAndreiev/KUAS_Python/assets/29687267/331297c5-f4a6-4789-a857-11ca2f28f9e9)
+
 Pi is 3.14124
 
 ### 2.3 Program structure
@@ -291,6 +293,9 @@ sub-problems and implement a very efficient algorithm overall.
 
 At the beginning of this course we discussed an algorithm for sorting numbers into ascending order.
 
+![image](https://github.com/MaksymAndreiev/KUAS_Python/assets/29687267/1bf8214a-f6fa-4ff8-8fe2-7c1f06211852)
+![image](https://github.com/MaksymAndreiev/KUAS_Python/assets/29687267/3de37ef3-88bb-4e3e-9483-8f8971e16b7d)
+
 This algorithm is easy to implement in Python using lists. However, it creates a new list containing the sorted values
 which is not always what we want. Let’s modify the algorithm slightly so that it sorts the list *in-place*, which means
 that the original list is rearranged to put the elements in order without creating a new list.
@@ -314,6 +319,8 @@ After that the element in position 1 will be correct.
 
 The algorithm can then be repeated from position 2 to N − 1, then from 3 to N − 1, and so on. Finally, we consider
 the range N − 1 to N − 1 which contains only one element, so we can stop. The list is now completely sorted.
+
+![image](https://github.com/MaksymAndreiev/KUAS_Python/assets/29687267/a167e968-8bbd-4976-9036-b84d56fef0e9)
 
 ### 3.5 Program structure
 
