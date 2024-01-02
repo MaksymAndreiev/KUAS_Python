@@ -224,6 +224,8 @@ choice: 4
 choice: 5
 ```
 
+![image](https://github.com/MaksymAndreiev/KUAS_Python/assets/29687267/573afbba-8101-4afd-a8ac-d596b91d3050)
+----------------------
 Figure 1: Example session for the ‘function plotting’ project.
 
 response some action is performed, and then the menu is shown again. The program terminates when the action chosen by
